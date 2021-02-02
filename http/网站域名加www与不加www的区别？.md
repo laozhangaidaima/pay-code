@@ -1,0 +1,6 @@
+
+详细资料可以参考：
+[《为什么域名前要加 www 前缀 www 是什么意思？》](https://www.f9seo.com/post-816.html)
+[《为什么越来越多的网站域名不加「www」前缀？》](https://www.zhihu.com/question/20414602)
+[《域名有 www 与没有 www 有什么区别？》](https://blog.csdn.net/andybruse/article/details/7982278)
+
